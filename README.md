@@ -1,2 +1,5 @@
 # fake-posts-api
-My JSON Server
+
+- Create db.json 
+
+- API Link: [Link](https://github.com/hungbui7690/fake-posts-api)
